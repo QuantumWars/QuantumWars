@@ -1,0 +1,17 @@
+<svg width="880" height="150" viewBox="0 0 880 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g stroke="#f2f2f2" stroke-width="1.3">
+    <line x1="70" y1="60" x2="70" y2="25" />
+    <line x1="70" y1="60" x2="38" y2="78" />
+    <line x1="70" y1="60" x2="102" y2="78" />
+  </g>
+  <circle cx="70" cy="60" r="5" fill="#f2f2f2" />
+  <circle cx="70" cy="25" r="3.5" fill="#0d1117" stroke="#f2f2f2" stroke-width="1.3" />
+  <circle cx="38" cy="78" r="3.5" fill="#0d1117" stroke="#f2f2f2" stroke-width="1.3" />
+  <circle cx="102" cy="78" r="3.5" fill="#0d1117" stroke="#f2f2f2" stroke-width="1.3" />
+
+  <text x="150" y="55" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="32" font-weight="600" letter-spacing="0.3" fill="#f2f2f2">Subha Prakash Pattnaik</text>
+  <text x="151" y="82" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="400" letter-spacing="0.2" fill="#a8a8a8">AI Engineer &amp; Architect — Agent Infrastructure, MCP Tooling, Applied GenAI</text>
+  <text x="151" y="108" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="2.2" fill="#8f8f8f">CO-FOUNDER, BORING PEOPLE · BANGALORE</text>
+
+  <line x1="2" y1="130" x2="878" y2="130" stroke="#262626" stroke-width="1" />
+</svg>
