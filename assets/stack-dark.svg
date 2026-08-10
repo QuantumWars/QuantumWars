@@ -1,0 +1,15 @@
+<svg width="880" height="190" viewBox="0 0 880 190" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <line x1="200" y1="8" x2="200" y2="182" stroke="#262626" stroke-width="1" />
+
+  <text x="180" y="33" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" letter-spacing="2" fill="#9a9a9a">LANG</text>
+  <text x="222" y="34" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#f0f0f0">Python · TypeScript · JavaScript</text>
+
+  <text x="180" y="73" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" letter-spacing="2" fill="#9a9a9a">AGENTS</text>
+  <text x="222" y="74" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#f0f0f0">LangChain · LangGraph · MCP</text>
+
+  <text x="180" y="113" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" letter-spacing="2" fill="#9a9a9a">PRODUCT</text>
+  <text x="222" y="114" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#f0f0f0">Next.js · React · Node.js · Tailwind CSS</text>
+
+  <text x="180" y="153" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" letter-spacing="2" fill="#9a9a9a">INFRA</text>
+  <text x="222" y="154" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#f0f0f0">OpenAI · Anthropic · FFmpeg · Docker · Git</text>
+</svg>
