@@ -60,8 +60,11 @@ Comfortable below the framework line — implementing the underlying math by han
 `07` **[PPT Maker](https://github.com/QuantumWars/ppt-maker)** — Turns a prompt into a structured, styled deck in seconds — nine layout variants, tone and purpose controls, built on GPT-4.
 <br>`Next.js` `TypeScript` `OpenAI` `Tailwind`
 
-`08` **[Neural Network from Scratch](https://github.com/QuantumWars/Implementing-NN-using-Numpy-and-Pandas)** — A neural network with no framework underneath it: forward pass, backprop, and gradient descent written by hand in NumPy, to know exactly what PyTorch is abstracting away.
-<br>`Python` `NumPy` `Pandas`
+`08` **[Project Companion](https://github.com/QuantumWars/project-companion)** — Project management that runs with your coding agent: a PRD, a Kanban board, and a git tree that proves what was actually built, all stored in one `.project` file the agent can read and update directly through a bundled MCP server.
+<br>`Next.js` `TypeScript` `MCP` `React Flow` `Liveblocks`
+
+`09` **[Context Graph Engine](https://github.com/QuantumWars/context-graph-engine)** — Context store for agentic systems: what an agent knew, decided, and derived, kept on a tamper-evident record that can still forget something on request — a scoped purge that removes the data while the verification chain stays unbroken.
+<br>`TypeScript` `Bun` `MCP` `Tamper-evident logs`
 
 ### `03` Stack
 
